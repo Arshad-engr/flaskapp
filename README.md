@@ -16,20 +16,21 @@
 
   ### 2. Set up a Virtual Environment
 
-  To setup the project on local machine, run below command to create virtual environment 
+  To setup the project on local machine, run below command to create virtual environment
+
   **For Linux/macOS**
 
         
-            python3 -m venv venv
-            source venv/bin/activate
+     python3 -m venv venv
+     source venv/bin/activate
 
         
 
   **For window OS**
 
      
-        python -m venv venv
-        venv\Scripts\activate
+     python -m venv venv
+     venv\Scripts\activate
      
 
   ### 3. Install project dependencies
