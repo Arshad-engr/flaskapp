@@ -16,8 +16,8 @@
 
   ### 2. Set up a Virtual Environment
 
-    To  setup the project on local machine, run below command to create virtual environment 
-    **For Linux/macOS**
+  To setup the project on local machine, run below command to create virtual environment 
+  **For Linux/macOS**
 
         
             python3 -m venv venv
@@ -25,7 +25,7 @@
 
         
 
-    **For window OS**
+  **For window OS**
 
      
         python -m venv venv
